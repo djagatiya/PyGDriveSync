@@ -1,5 +1,5 @@
 # PyGDriveSync
-This project for synchronize your local file system with google drive. A two way synchronize supported, which you can run any side.
+A synchronize your local file system with google drive. A two way synchronize supported, which you can run any side.
 
 ---
 
