@@ -15,7 +15,7 @@ A synchronize your local file system with google drive. A two way synchronize su
 1. Download this project.
 2. Turn on your Google Drive API (please check. [Python Quickstart](https://developers.google.com/drive/api/v3/quickstart/python))
 3. Get JSON file of client secret and that file rename to "credentials.json" and place into current working directory. 
-4. Install required libraries from "requirements.txt" file.
+4. Install required libraries from [requirements.txt](requirements.txt) file.
 5. run cli.py.
 6. Enjoy
 
