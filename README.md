@@ -1,8 +1,6 @@
 # PyGDriveSync
 A synchronize your local file system with google drive. A two way synchronize supported, which you can run any side.
 
----
-
 ## Features
 - query
 - down_sync
@@ -29,7 +27,5 @@ A synchronize your local file system with google drive. A two way synchronize su
 
 
 ## Support
-
----
 
 If you have any questions how to use this stuff, offerings or simply want to contact me, please write me anytime on email [divyeshjagatiya@gmail.com](mailto:divyeshjagatiya@gmail.com).
