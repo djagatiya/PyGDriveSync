@@ -1,4 +1,4 @@
-# PyGDriveSync (Google Drive api v3)
+# PyGDriveSync <sub><sup>(using Google Drive api v3)</sup></sub>
 A synchronize your local file system with google drive. A two way synchronize supported, which you can run any side.
 
 ## Features
