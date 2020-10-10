@@ -18,7 +18,7 @@ A PyGDriveSync is python module for synchronize your local file system with goog
 2. Turn on your Google Drive API (please check. [Python Quickstart](https://developers.google.com/drive/api/v3/quickstart/python))
 3. Get JSON file of client secret and that file rename to "client_secrets.json" and place into current working directory. 
 4. Install required libraries from [requirements.txt](requirements.txt) file.
-5. run cli.py.
+5. run [cli.py](cli.py).
 6. Enjoy
 
 ```
