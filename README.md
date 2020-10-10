@@ -1,5 +1,5 @@
 # PyGDriveSync <sub><sup>(using Google Drive api v3)</sup></sub>
-A synchronize your local file system with google drive.<br/> 
+A PyGDriveSync is python module for synchronize your local file system with google drive.<br/> 
 - Two way synchronize supported, which you can run any side.<br/> 
 - Multi-threading are supported.
 
