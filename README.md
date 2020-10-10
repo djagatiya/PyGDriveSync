@@ -51,4 +51,4 @@ A PyGDriveSync is python module for synchronize your local file system with goog
 
 ## Support
 
-If you have any questions how to use this stuff, offerings or simply want to contact me, please write me anytime on email [divyeshjagatiya@gmail.com](mailto:divyeshjagatiya@gmail.com).
+If you have any questions how to use this stuff, contribution or simply want to contact me, please write me on email [divyeshjagatiya@gmail.com](mailto:divyeshjagatiya@gmail.com).
